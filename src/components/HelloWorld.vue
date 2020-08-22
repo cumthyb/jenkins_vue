@@ -1,6 +1,9 @@
 <template>
   <div class="hello">
-    demo to test jenkins
+  <ul>
+    <li>demo to test jenkins</li>
+    <li>test build script</li>
+  </ul>
   </div>
 </template>
 
